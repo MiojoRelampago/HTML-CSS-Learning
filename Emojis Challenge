@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 004</title>
+</head>
+<body>
+    <h1>Desafio do Emoji</h1>
+    <p>Estes são meus Emojis Favoritos!</p> <!-- Para isso usamos &#x para sinalizar um emoji e posteriormente seu codigo-->
+    <h2>Carinhas</h2>
+    <ul type="disk">
+        <li>&#x1F92B Código U+1F92B</li>        
+        <li>&#x1F928 Código U+1F928</li>        
+        <li>&#x1F633 Código U+1F633</li>        
+        <li>&#x1F92C Código U+1F92C</li>        
+        <li>&#x1F97A Código U+1F97A</li>            
+    </ul>
+    <h2>Mãos</h2>
+    <ul type="disk">
+        <li>&#x1F44C Código U+1F44C</li>        
+        <li>&#x1F90F Código U+1F90F</li>        
+        <li>&#x1F595 Código U+1F595</li>        
+        <li>&#x1F91D Código U+1F91D</li>        
+        <li>&#x1F919 Código U+1F919</li>            
+    </ul>
+    <h2>Animais</h2>
+    <ul>
+        <li>&#x1F984 Código U+1F984</li>            
+        <li>&#x1F408 Código U+1F408</li>            
+        <li>&#x1F439 Código U+1F439</li>            
+        <li>&#x1F423 Código U+1F423</li>            
+        <li>&#x1F433 Código U+1F433</li>                
+    </ul>
+    <h2>Esportes</h2>
+    <ul>
+        <li>&#x1F3D0 Código U+1F3D0</li>
+        <li>&#x26BD   Código U+26BD</li>
+        <li>&#x1F3C0 Código U+1F3C0</li>
+        <li>&#x1F3AE Código U+1F3AE</li>
+        <li>&#x1F3C8 Código U+1F3C8</li>
+    </ul>
+    <h2>Comidas</h2>
+    <ul>
+        <li>&#x1F336 Código U+1F336</li>        
+        <li>&#x1F969 Código U+1F969</li>        
+        <li>&#x1F32E Código U+1F32E</li>        
+        <li>&#x1F35C Código U+1F35C</li>        
+        <li>&#x1F36E Código U+1F36E</li>            
+    </ul>
+    <h2>Objetos</h2>
+    <ul>
+        <li>&#x1F4F1 Código U+1F4F1</li>        
+        <li>&#x1F5A5 Código U+1F5A5</li>        
+        <li>&#x1F4BB Código U+1F4BB</li>        
+        <li>&#x1F4F7 Código U+1F4F7</li>        
+        <li>&#x1F4D5 Código U+1F4D5</li>           
+    </ul>
+
+    <p>Este foi o Desafio 4, você pode checar o mesmo <a href="https://github.com/gustavoguanabara/html-css/blob/master/desafios/modulo-01/d004/desafio-emoji.pdf" target="_blank" rel="external">aqui!</a></p>
+</body>
+</html>
